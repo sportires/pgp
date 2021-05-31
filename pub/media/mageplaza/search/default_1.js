@@ -1,0 +1,1 @@
+var mageplazaSearchProducts = [{"value":"simple1","c":[],"d":"","p":1000,"i":"https:\/\/sportires.itmd-cloud.net\/pub\/static\/version1549648614\/frontend\/ITM\/sportires\/es_MX\/Magento_Catalog\/images\/product\/placeholder\/small_image.jpg","u":"simple1.html"}]

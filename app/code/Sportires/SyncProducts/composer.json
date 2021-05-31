@@ -1,0 +1,22 @@
+{
+    "name": "sportires/module-syncproducts",
+    "description": "Modulo para sincronizar precio y stock entre Sportires y PGP",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "info@mage2gen.com",
+            "name": "Mage2Gen"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sportires\\SyncProducts\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.160452,
+          19.383310
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "patisserie",
+        "hours": "Lunes a Viernes 9:00-18:00 hrs. Sábados 9:00-14:00 hrs.",
+        "description": "San Borja #1031, Col. del Valle, 03100, Del. Benito Juárez, CDMX",
+        "name": "DEL VALLE"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.175234,
+          19.432631
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "patisserie",
+        "hours": "Lunes a Viernes 9:00-18:00 hrs. Sábados 9:00-14:00 hrs.",
+        "description": "Gutemberg #96 Col. Anzures, 11590, Del. Miguel Hidalgo, CDMX",
+        "name": "ANZURES"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.660331,
+          -100.397015
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "patisserie",
+        "hours": "Lunes a Viernes 9:00-18:00 hrs. Sábados 9:00-14:00 hrs.",
+        "description": "Av. Vasconcelos no. 824 Poniente San Pedro Garza García, Nuevo León",
+        "name": "VASCONCELOS (MONTERREY)"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.163624,
+          19.407874
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "patisserie",
+        "hours": "Lunes a Viernes 9:00-18:00 hrs. Sábados 9:00-14:00 hrs.",
+        "description": "Medellín #278, Col. Roma sur, 06760, Del. Cuauhtémoc, CDMX",
+        "name": "ROMA"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.156532,
+          19.390214
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "patisserie",
+        "hours": "Lunes a Viernes 9:00-18:00 hrs. Sábados 9:00-14:00 hrs.",
+        "description": "Av. Cuauhtémoc #794, Col. Narvarte, 03020, Del. Benito Juárez, CDMX",
+        "name": "NARVARTE"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.199150,
+          19.438380
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "patisserie",
+        "hours": "Lunes a Viernes 9:00-18:00 hrs. Sábados 9:00-14:00 hrs.",
+        "description": "Av. Ejército Nacional #746, Col. Polanco, 11550, Del. Miguel Hidalgo, CDMX",
+        "name": "POLANCO"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.296317,
+          19.559754
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "patisserie",
+        "hours": "Lunes a Viernes 9:00-18:00 hrs. Sábados 9:00-14:00 hrs.",
+        "description": "Blvd. Jorge Jiménez Cantú Manzana 3 Lote 10 Local 1, Col. Rancho Viejo, 52930, Atizapán de Zaragoza, Edo. México",
+        "name": "ZONA ESMERALDA"
+      }
+    }
+  ]
+}

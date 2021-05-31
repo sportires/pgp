@@ -1,0 +1,35 @@
+<?php
+$_magb_helper = $this->helper('ITM\MagB1\Helper\Data');
+?>
+<?php if($_magb_helper->displayGeneralInfomration()) :?>
+<div class="block block-dashboard-info">
+    <div class="block-title"><strong><?= $block->escapeHtml(__('General Information')) ?></strong></div>
+    <div class="block-content">
+        <div class="box box-information">
+            <strong class="box-title">
+                <span><?= $block->escapeHtml(__('Account Balance')) ?></span>
+            </strong>
+            <div class="box-content">
+                <p>
+                    <?php
+                    echo $_magb_helper->getCurrentCustomerAccountBalance();
+                    ?>
+                </p>
+            </div>
+        </div>
+        <div class="box box-information">
+            <strong class="box-title">
+                <span><?= $block->escapeHtml(__('Card Code')) ?></span>
+            </strong>
+            <div class="box-content">
+                <p>
+                    <?php
+                    echo $_magb_helper->getCurrentCustomerCardCode();
+                    ?>
+                </p>
+            </div>
+        </div>
+   </div>
+
+</div>
+<?php endif; ?>
